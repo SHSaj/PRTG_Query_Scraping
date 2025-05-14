@@ -5,9 +5,9 @@ You only need to change PRTG_URL, PRTG_Username, PRTG_Password to your prtg sett
 and put objlist file where your code is
 
 you will get an excel with of all sensors with this attributes:
-  Sensor Name
-  Sensor Database
-  Sensor Database User
-  Sensor Query
-  Sensor Warning threshold
-  Sensor Down threshold
+  <br/>Sensor Name,
+  <br/>Sensor Database
+  <br/>Sensor Database User
+  <br/>Sensor Query
+  <br/>Sensor Warning threshold
+  <br/>Sensor Down threshold
