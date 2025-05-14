@@ -6,8 +6,8 @@ and put objlist file where your code is
 
 you will get an excel with of all sensors with this attributes:
   <br/>Sensor Name,
-  <br/>Sensor Database
-  <br/>Sensor Database User
-  <br/>Sensor Query
-  <br/>Sensor Warning threshold
+  <br/>Sensor Database,
+  <br/>Sensor Database User,
+  <br/>Sensor Query,
+  <br/>Sensor Warning threshold,
   <br/>Sensor Down threshold
